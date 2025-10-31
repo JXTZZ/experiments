@@ -400,6 +400,5 @@
     "empty_error_patch_ids": [
         "alibaba__fastjson2-82"
     ],
-    "unstopped_containers": [],
-    "unremoved_images": []
+    "error_ids": []
 }
