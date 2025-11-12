@@ -270,7 +270,7 @@
         "catchorg/Catch2:pr-1422"
     ],
     "incomplete_ids": [],
-    "resolved_ids": [
+    "resolved": [
         "simdjson/simdjson:pr-1896",
         "simdjson/simdjson:pr-1624",
         "simdjson/simdjson:pr-524",
